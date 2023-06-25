@@ -1,3 +1,4 @@
 colorectal-cancer: 'Data/Colorectal_GSE44076.csv'
 housing-data: 'Data/housing-data.txt'
 breast-cancer: 'Data/breast-cancer.csv'
+pump-sensor: 'Data/sensor.csv'
